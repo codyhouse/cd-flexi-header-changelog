@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.2] - 2021-10-12
+- New --expandable-on-mobile variation
+
 ## [1.0.2] - 2021-02-23
 - Fixed style issues when JavaScript is disabled
 
